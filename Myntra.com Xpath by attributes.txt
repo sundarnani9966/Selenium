@@ -1,0 +1,7 @@
+Myntra.com xpath by attribute
+man://a[@data-type="navElements"]
+woman://a[@data-group="women"]
+Kids://a[@data-reactid="335"]
+Home@Living://a[@data-index="3"]
+Beauty://a[@data-color="#0db7af"]
+Studio://a[@data-color="#ff3f6c"]
